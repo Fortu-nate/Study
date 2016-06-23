@@ -7,13 +7,13 @@ public class RangeDetect {
 		int x = Integer.parseInt(args[0]);
 		
 		if (x == 1)
-			System.out.println("в самый раз");
+			System.out.println("РІ СЃР°РјС‹Р№ СЂР°Р·");
 		else if (x == 2)
-			System.out.println("много");
+			System.out.println("РјРЅРѕРіРѕ");
 		else if (x == 5)
-			System.out.println("мало");
+			System.out.println("РјР°Р»Рѕ");
 		else
-			System.out.println("задайте другое число");
+			System.out.println("РґСЂСѓРіРѕР№ РІР°СЂРёР°РЅС‚");
 		
 	}
 
