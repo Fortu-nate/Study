@@ -15,6 +15,20 @@ public class RangeDetect {
 		else
 			System.out.println("другой вариант");
 		
+		
+		switch (x) {
+		case 2:
+			System.out.println("много");
+			break;
+		case 5:
+			System.out.println("мало");
+			break;
+		case 1:
+			System.out.println("в самый раз");
+			break;
+		default:
+			System.out.println("другой вариант");
+		}
 	}
 
 }
